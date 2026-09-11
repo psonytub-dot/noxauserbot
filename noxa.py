@@ -3,8 +3,8 @@ import asyncio
 import os
 
 # Buraya kendi my.telegram.org bilgilerinizi girin
-API_ID = 1234567  # Kendi API ID'niz
-API_HASH = "kendi_api_hash_kodunuz_buraya"
+API_ID = 36417573  # Kendi API ID'niz
+API_HASH = "0729c97fd294441920d5e242b58eaed1"
 
 app = Client("noxa_session", api_id=API_ID, api_hash=API_HASH)
 
